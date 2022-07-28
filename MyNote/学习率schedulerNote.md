@@ -107,5 +107,5 @@ plot(x, y)
 学习率调整策略: https://codeantenna.com/a/aaxBtRh7ZO
 
 输出学习率方法：
-1. scheduler.get_last_lr()[0]
-2.optimizer.state_dict()['param_groups'][0]['lr']
+1. scheduler.get_last_lr()[0] 
+2. optimizer.state_dict()['param_groups'][0]['lr']
