@@ -102,7 +102,7 @@ for epoch in range(st_epoch, 10):
 plot(x, y)
 ```
 
-![image-20220723160954446](C:\Users\YOGA\AppData\Roaming\Typora\typora-user-images\image-20220723160954446.png)
+![image](../image/lr_scheduler.png)
 
 学习率调整策略: https://codeantenna.com/a/aaxBtRh7ZO
 
