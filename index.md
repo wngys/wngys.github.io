@@ -6,4 +6,5 @@
 | [远程连接Github](https://github.com/wngys/wngys.github.io/blob/main/MyNote/远程连接Github仓库.md) |
 | [学习率scheduler_Note](MyNote/学习率schedulerNote.md)        |
 | [Git分支管理与冲突解决](MyNote/Git分支管理与冲突解决.md)     |
+| [反向传播图与设置可跟踪梯度的Tensor](MyNote/反向传播图与设置可跟踪梯度的Tensor.md) |
 
