@@ -8,4 +8,5 @@
 | [Git分支管理与冲突解决](MyNote/Git分支管理与冲突解决.md)     |
 | [反向传播图与设置可跟踪梯度的Tensor](MyNote/反向传播图与设置可跟踪梯度的Tensor.md) |
 | [Contact-Lib代码前四个Model无法运行](MyNote/Contact-Lib代码前四个Model无法运行.md) |
+| [钩子函数获取中间层输出](MyNote/钩子函数获取中间层输出.md)   |
 
