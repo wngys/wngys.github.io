@@ -8,7 +8,7 @@
 
 ## Code
 
-```
+```python
 import math
 
 import torch
