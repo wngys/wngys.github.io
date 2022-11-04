@@ -132,3 +132,6 @@ BatchNorm对除了第二维的其它维度作Norm,输入参数的维度也是第
 ```
 
 batchNorm参考[here](https://blog.csdn.net/qq_41105401/article/details/114339269)
+
+test code: [here](../code/testpt_bn_ln.ipynb)
+
